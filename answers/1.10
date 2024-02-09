@@ -1,0 +1,3 @@
+docker exec -it b85a6d3705a87f28b1d8bc34dbf139143bf4d828678f09128c205fe2c508a048 bash
+cat /etc/*release
+DEBIAN
